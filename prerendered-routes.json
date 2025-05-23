@@ -1,8 +1,0 @@
-{
-  "routes": {
-    "/MeetingManager": {},
-    "/MeetingManager/admin/meetingstream": {},
-    "/MeetingManager/admin/minutes": {},
-    "/MeetingManager/regular-participant": {}
-  }
-}
